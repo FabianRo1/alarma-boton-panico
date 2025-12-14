@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "local": "Local 101",
+    "estado": "Activa",
+    "tipo": "Robo",
+    "hora": "10:32 AM"
+  },
+  {
+    "id": 2,
+    "local": "Local 205",
+    "estado": "En respuesta",
+    "tipo": "Emergencia médica",
+    "hora": "09:50 AM"
+  }
+]
